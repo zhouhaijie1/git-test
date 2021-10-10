@@ -5,3 +5,4 @@ hello hadoop!
 hello java
 hello spark!
 hello hive!
+hello flume!
